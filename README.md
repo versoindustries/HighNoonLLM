@@ -157,6 +157,7 @@ Check `batch_train.py` for additional command-line options (e.g., batch size, ep
 - Integrate adaptive memory enhancements for dynamic chunk sizing.
 - Optimize DirectML plugin for AMD GPUs.
 - Complete Inference Session (Windows Executable) for full model usage upon training completion, giving users control over Chain of Thought and other features not offered by large-scale LLM providers.
+- Raise enough funding to create a localized gpu training cluster to train all HSMN models on. 
 
 ## Research Papers
 
