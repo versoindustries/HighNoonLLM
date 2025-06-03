@@ -1,0 +1,39 @@
+2025-05-17 15:09:48,511 - INFO - Starting OWASP dataset preprocessing
+2025-05-17 15:09:48,511 - ERROR - Required module 'pdfminer.six' is not installed. Install it using 'pip install pdfminer.six'
+2025-05-17 15:10:55,292 - INFO - Starting OWASP dataset preprocessing
+2025-05-17 15:10:55,293 - ERROR - Required module 'pdfminer.six' is not installed. Install it using 'pip install pdfminer.six'
+2025-05-17 15:12:20,213 - INFO - Starting OWASP dataset preprocessing
+2025-05-17 15:12:20,214 - INFO - Python executable: C:\Users\zimme\OneDrive\Documents\Deep_Network\env\Scripts\python.exe
+2025-05-17 15:12:20,214 - INFO - Python version: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2025-05-17 15:12:20,215 - INFO - Site-packages paths: ['C:\\Users\\zimme\\OneDrive\\Documents\\Deep_Network\\llm', 'C:\\Users\\zimme\\AppData\\Local\\Programs\\Python\\Python310', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\python310.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib', 'C:\\Users\\zimme\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0', 'C:\\Users\\zimme\\OneDrive\\Documents\\Deep_Network\\env', 'C:\\Users\\zimme\\OneDrive\\Documents\\Deep_Network\\env\\lib\\site-packages']
+2025-05-17 15:12:20,215 - ERROR - Required module 'pdfminer.six' is not installed or not found. Install it using 'pip install pdfminer.six'
+2025-05-17 15:12:20,215 - ERROR - Import error details: No module named 'pdfminer.six'
+2025-05-17 15:13:46,777 - INFO - Starting OWASP dataset preprocessing
+2025-05-17 15:13:46,778 - INFO - Python executable: C:\Users\zimme\OneDrive\Documents\Deep_Network\env\Scripts\python.exe
+2025-05-17 15:13:46,778 - INFO - Python version: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2025-05-17 15:13:46,778 - INFO - Site-packages paths: ['C:\\Users\\zimme\\OneDrive\\Documents\\Deep_Network\\llm', 'C:\\Users\\zimme\\AppData\\Local\\Programs\\Python\\Python310', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\python310.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib', 'C:\\Users\\zimme\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0', 'C:\\Users\\zimme\\OneDrive\\Documents\\Deep_Network\\env', 'C:\\Users\\zimme\\OneDrive\\Documents\\Deep_Network\\env\\lib\\site-packages']
+2025-05-17 15:13:46,779 - INFO - Module 'PyPDF2' is installed and importable
+2025-05-17 15:13:46,779 - INFO - Module 'datasets' is installed and importable
+2025-05-17 15:13:46,780 - INFO - Extracting text from C:\Users\zimme\OneDrive\Documents\Deep_Network\llm\owasp-top-10.pdf
+2025-05-17 15:13:47,880 - INFO - Extracted 30177 characters from C:\Users\zimme\OneDrive\Documents\Deep_Network\llm\owasp-top-10.pdf
+2025-05-17 15:13:47,882 - INFO - Extracting text from C:\Users\zimme\OneDrive\Documents\Deep_Network\llm\LLMAll_en-US_FINAL.pdf
+2025-05-17 15:13:51,775 - INFO - Extracted 95382 characters from C:\Users\zimme\OneDrive\Documents\Deep_Network\llm\LLMAll_en-US_FINAL.pdf
+2025-05-17 15:13:51,775 - INFO - Found 0 risk sections in 2021 OWASP document
+2025-05-17 15:13:51,776 - INFO - Found 0 risk sections in 2023 OWASP document
+2025-05-17 15:13:51,776 - INFO - Generated 0 Q&A pairs for 2021 OWASP Top 10
+2025-05-17 15:13:51,777 - INFO - Generated 0 Q&A pairs for 2023 OWASP Top 10
+2025-05-17 15:13:51,777 - ERROR - No data generated. Check PDF content and parsing logic.
+2025-05-17 15:13:51,777 - ERROR - Dataset creation failed.
+2025-05-17 15:15:37,997 - INFO - Starting OWASP dataset preprocessing
+2025-05-17 15:15:37,997 - INFO - Python executable: C:\Users\zimme\OneDrive\Documents\Deep_Network\env\Scripts\python.exe
+2025-05-17 15:15:37,998 - INFO - Python version: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2025-05-17 15:15:37,998 - INFO - Site-packages paths: ['C:\\Users\\zimme\\OneDrive\\Documents\\Deep_Network\\llm', 'C:\\Users\\zimme\\AppData\\Local\\Programs\\Python\\Python310', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\python310.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib', 'C:\\Users\\zimme\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0', 'C:\\Users\\zimme\\OneDrive\\Documents\\Deep_Network\\env', 'C:\\Users\\zimme\\OneDrive\\Documents\\Deep_Network\\env\\lib\\site-packages']
+2025-05-17 15:15:37,998 - INFO - Module 'PyPDF2' is installed and importable
+2025-05-17 15:15:37,998 - INFO - Module 'datasets' is installed and importable
+2025-05-17 15:15:37,999 - INFO - Extracting text from C:\Users\zimme\OneDrive\Documents\Deep_Network\llm\owasp-top-10.pdf
+2025-05-17 15:15:38,713 - INFO - Extracted 30177 characters from C:\Users\zimme\OneDrive\Documents\Deep_Network\llm\owasp-top-10.pdf
+2025-05-17 15:15:38,714 - INFO - Saved extracted text to C:\Users\zimme\OneDrive\Documents\Deep_Network\llm\owasp-top-10_extracted.txt
+2025-05-17 15:15:38,715 - INFO - Extracting text from C:\Users\zimme\OneDrive\Documents\Deep_Network\llm\LLMAll_en-US_FINAL.pdf
+2025-05-17 15:15:42,266 - INFO - Extracted 95382 characters from C:\Users\zimme\OneDrive\Documents\Deep_Network\llm\LLMAll_en-US_FINAL.pdf
+2025-05-17 15:15:42,270 - INFO - Saved extracted text to C:\Users\zimme\OneDrive\Documents\Deep_Network\llm\LLMAll_en-US_FINAL_extracted.txt
+2025-05-17 15:15:42,272 - INFO - Found 11 risk sections in 2021 OWASP document

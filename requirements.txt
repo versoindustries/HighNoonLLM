@@ -1,0 +1,11 @@
+numpy==1.26.4
+scipy
+scikit-learn
+numba
+tensorflow-cpu==2.10.1
+tensorflow-directml-plugin
+numpy-stl
+tqdm
+tensorboard
+matplotlib
+transformers
