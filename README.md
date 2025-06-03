@@ -188,6 +188,10 @@ We welcome contributions to code, documentation, and testing! Please read:
 - **Issues**: [GitHub Issues](https://github.com/versoindustries/HighNoonLLM/issues)
 - **Commercial Licensing**: See `COMMERCIAL-LICENSE.md`
 
+## Discord Server
+
+https://discord.gg/pBrSPbaMnM
+
 Thank you for your interest in HighNoon LLM! Stay tuned for model checkpoints and updates.
 
 ## Sponsorship
