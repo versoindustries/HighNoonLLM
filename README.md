@@ -202,25 +202,75 @@ Support the development of HighNoon LLM and its innovative Hierarchical Spatial 
 ### Friend of HighNoon
 
 - **Monthly Amount**: $5
-- **Benefits**: Listed as a friend in the README and GitHub Sponsors profile.
+- **Benefits**:
+  - Recognition in the project’s README and GitHub Sponsors page.
+- **Description**:
+  - Ideal for individuals or small contributors who want to support HighNoonLLM’s development.
+
 - [Sponsor Now](https://buy.stripe.com/dRm9ATfiY47c0v45yugfu0y)
 
 ### Research Supporter
 
 - **Monthly Amount**: $10
-- **Benefits**: All above benefits; early access to research updates via email or private GitHub repository.
+- **Benefits**:
+  - All Friend of HighNoon benefits.
+  - Early access to research updates and new features via email or private repository.
+- **Description**:
+  - Suitable for users or small businesses wanting to stay ahead of project developments.
+
 - [Sponsor Now](https://buy.stripe.com/4gM00j5IogTYb9I7GCgfu0z)
 
 ### HighNoon Patron
 
 - **Monthly Amount**: $50
-- **Benefits**: All above benefits; personal thank-you via email or X post; mention in research acknowledgments (if feasible).
-- [Sponsor Now](https://buy.stripe.com/aFa7sL4Ek0V02DcaSOgfu0A)
+- **Benefits**:
+  - All Research Supporter benefits.
+  - Personal thank-you via email or X post.
+  - Acknowledgment in research papers or publications.
+- **Description**:
+  - For dedicated supporters who want to contribute significantly to the project.
 
-### Collaborator
+- [Sponsor Now](https://buy.stripe.com/3cI14n8UA1Z4a5E8KGgfu0G)
 
-- **Monthly Amount**: $100
-- **Benefits**: All above benefits; opportunity to suggest features or influence project direction; access to exclusive content like early demos.
-- [Sponsor Now](https://buy.stripe.com/cNi14nfiY47cdhQaSOgfu0B)
+### Corporate Sponsor
+
+- **Monthly Amount**: $500
+- **Benefits**:
+  - All HighNoon Patron benefits.
+  - Company logo displayed on the project’s homepage.
+  - Priority consideration for feature requests.
+- **Description**:
+  - Targets businesses relying on HighNoonLLM, offering visibility and influence.
+
+- [Sponsor Now](https://buy.stripe.com/cNidR9eeU0V00v47GCgfu0H)
+
+### Strategic Partner
+
+- **Annual Amount**: $25,000
+- **Benefits**:
+  - All Corporate Sponsor benefits.
+  - Participation in quarterly strategy meetings with maintainers to discuss roadmap.
+  - Ability to suggest features and influence project direction.
+  - Guaranteed inclusion of one feature request per year (subject to feasibility).
+  - Access to internal APIs or early beta versions.
+- **Description**:
+  - For organizations wanting a significant role in shaping HighNoonLLM’s future.
+
+- [Sponsor Now](https://buy.stripe.com/cNiaEX9YEdHM6Ts8KGgfu0I)
+
+### Premier Sponsor
+
+- **Annual Amount**: $150,000
+- **Benefits**:
+  - All Strategic Partner benefits.
+  - Co-branding opportunities (e.g., “Powered by HighNoonLLM and [Sponsor Name]”).
+  - Priority development of sponsor-requested features (dedicated sprints).
+  - Dedicated support team for issues or requests.
+  - Naming rights for a feature, model version, or component.
+- **Description**:
+  - For major stakeholders integrating HighNoonLLM into their operations, offering maximum influence.
+
+- [Sponsor Now](https://buy.stripe.com/7sI9ATfiY47c0v48KGgfu0J)
+
 
 Your contributions drive the future of efficient and ethical NLP innovation. Thank you for supporting HighNoon LLM!
