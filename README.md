@@ -1,5 +1,7 @@
 # HighNoon LLM: AI That Thinks Like You
 
+![Verso Logo](images/logo.jpg)
+
 Welcome to **HighNoon LLM**, a groundbreaking AI project from Verso Industries that’s making artificial intelligence smarter, faster, and more accessible. Our goal is to build an AI that processes and understands language the way humans do—breaking down information into manageable pieces, connecting ideas, and learning new skills without forgetting old ones. Whether you’re a developer, a business, or just curious about AI, HighNoon LLM is designed to empower you with tools that are efficient, private, and open to everyone.
 
 We’re thrilled to invite you to join our open-source community, contribute to the project, or support us as a sponsor to help shape the future of AI. Let’s dive into what HighNoon LLM is all about!
